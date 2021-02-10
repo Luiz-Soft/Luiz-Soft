@@ -1,7 +1,7 @@
 ### Hello world 👋, you can call me Luiz
 
 
-  🤝 **Open to purposes.** If you are looking to a junior full-stack web developer with focus on front-end, __hire me!!__ 
+  🤝 **Open to purposes.** If you are looking for a junior full-stack web developer with focus on front-end, __hire me!!__ 
 
 - 🔭 I’m currently working as a freelancer web-developer
 - 🌱 I’m currently improving my React JS skills
