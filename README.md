@@ -5,7 +5,7 @@
 
 
 - 🗣️ I can speak english🇺🇸, portuguese🇧🇷 and french🇫🇷 
-- 🔭 I’m currently working as a freelancer web-developer
+- 🔭 I’m currently working as a frontend web-developer
 - 🌱 I’m currently improving my Vue.js skills
 - 👯 I’m looking to collaborate on Mobile Development
 - 📱 I bellieve that UX makes your product much more valuable
